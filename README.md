@@ -197,4 +197,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## Author
 
-Developed using ESP32 and Arduino Framework for learning analog input and PWM output control. 🚀
+Developed using ESP32 and Arduino Framework for learning analog input and PWM output control.  🚀
